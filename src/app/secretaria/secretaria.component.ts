@@ -11,7 +11,10 @@ export class SecretariaComponent implements OnInit {
   apellido="Monroe";
   edad=18;
   
+  pais="putito";
 
+
+  
 
   llamaEmpresa(value:String){
 
